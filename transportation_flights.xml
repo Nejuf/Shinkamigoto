@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items sectionHead="Flights">
+	<item>
+		<name>Kamigoto Airport (ICAO: RJDK)
+		</name>
+		<imgSrc>Previews/n_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>This is the <![CDATA[<a href='http://en.wikipedia.org/wiki/Kamigoto_Airport' target='_blank'>small airport</a>]]> located on the east tip of Nakadori island.  It generally has a low amount of activity.
+		</desc>
+	</item>
+	<item>
+		<name>Fukue Airport 五島福江空港
+		</name>
+		<imgSrc>Previews/n_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>The southern most island of the Goto Islands, Fukue, has an <![CDATA[<a href='http://www.fuj.ecnet.jp/time_table2.html' target='_blank'>airport</a>]]> near the city.  This airport offers flights to Nagasaki serviced by <![CDATA[<a href='http://www.orc-air.co.jp/' target='_blank'>Oriental Air Bridge</a>]]> and flights to Fukuoka through <![CDATA[<a href='https://aswbe2-d.ana.co.jp/rsvp/dyc/ASWReserve.do' target='_blank'>ANA Skyweb</a>]]>.  The Nagasaki flights are priced about 7,000円-11,000円 and the Fukuoka flights about 12,000円-18,000円.  For some additional information, you may try visiting Fukue Airport's
+		<![CDATA[<a href='http://en.wikipedia.org/wiki/Goto-Fukue_Airport' target='_blank'>Wiki page</a>]]>.
+		</desc>
+	</item>
+</items>

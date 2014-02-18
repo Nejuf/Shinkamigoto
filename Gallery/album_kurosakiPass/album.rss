@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Kurosaki Pass</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description>A part of the Saikai National Park series, Kurosaki pass overlooks Arikawa and nearby towns.</description>
+        <item>
+            <title>DSC00236</title>
+            <link>slides/DSC00236.JPG#</link>
+            <pubDate>Fri, 27 May 2011 21:15:15 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00236.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00236.JPG" width="900" height="197"/>
+            <jalbum:exif originalDate="4/17/11 1:43 PM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC00236.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00234</title>
+            <link>slides/DSC00234.JPG#</link>
+            <pubDate>Fri, 27 May 2011 21:15:15 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00234.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00234.JPG" width="640" height="480"/>
+            <jalbum:exif originalDate="4/17/11 1:42 PM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC00234.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00238</title>
+            <link>slides/DSC00238.JPG#</link>
+            <pubDate>Fri, 27 May 2011 21:15:15 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00238.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00238.JPG" width="632" height="474"/>
+            <jalbum:exif originalDate="4/17/11 1:47 PM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC00238.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00233</title>
+            <link>slides/DSC00233.JPG#</link>
+            <pubDate>Fri, 27 May 2011 21:15:15 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00233.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00233.JPG" width="640" height="480"/>
+            <jalbum:exif originalDate="4/17/11 1:42 PM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC00233.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00239</title>
+            <link>slides/DSC00239.JPG#</link>
+            <pubDate>Fri, 27 May 2011 21:15:15 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00239.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00239.JPG" width="640" height="480"/>
+            <jalbum:exif originalDate="4/17/11 1:51 PM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC00239.JPG</guid>
+        </item>
+    </channel>
+</rss>

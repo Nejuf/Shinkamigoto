@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items sectionHead="Christian Churches">
+<!-- Visible Items --> 
+	<item>
+		<name>Doinoura Church 土井ノ浦教会
+		</name>
+		<imgSrc>Previews/cc_doinoura.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>Originally built in 1892, Doinoura Church has undergone multiple reconstructions.  The outside appears modern and was last altered in 1997.  However, the interior of the church has some of the older parts still intact, including those from the relocated Old Oso Church.  Near the church there are some stone monuments and Christ Memorial Hall.
+		</desc>
+	</item>
+	<item>
+		<name>Inoura Church 猪ノ浦教会
+		</name>
+		<imgSrc>Previews/cc_inoura.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>Located on Nakadori Island's western peninsula, Inoura Church is one of the more recently built churches.  It was constructed in 1947, and last renovated in 1989.  In 1975, it was established as the mission station of the Matenoura Parish.  This church has received the blessing of Cardinal Satowaki.
+		</desc>
+	</item>
+	<item>
+		<name>Kiri Church 桐教会
+		</name>
+		<imgSrc>Previews/cc_kiri.jpg
+		</imgSrc>
+		<albumSrc>Gallery/album_kiri/index.html
+		</albumSrc>
+		<desc>Kiri Church is visible from afar, since it has one of the highest steeples of any on the island.  It is also one of the more adorned churches during the Christmas season, with it's white banner and rope lights fastened high on the steeple tower.
+		</desc>
+	</item>
+	<item>
+		<name>Nakanoura Church 中ノ浦教会
+		</name>
+		<imgSrc>Previews/cc_nakanoura.jpg
+		</imgSrc>
+		<albumSrc>Gallery/album_nakanouraChurch/index.html
+		</albumSrc>
+		<desc>Located near the ocean waters surrounding Wakamatsu, Nakanoura Church, with it's stained-glass windows, is considered to have a very quaint beauty.  From the opposite shore, the reflection of the church can be seen on the calm water.  It was established in 1925, and consecrated by Reverend Yajyu Osaki.  During the Kansei period, Christians migrated to the area from Kurosaki, Sotome.  The local Kiri district was considered to be sacred because it was the birthplace of missionary Gasparu Yosaku.  As a result, there were Goto Kuzure persecutions at the start of the Meiji Era.  Near the church there is a statue of Mary and flowers of many colors.
+		</desc>
+	</item>
+	
+<!-- Hidden Items -->	
+	<![CDATA[
+	<item>
+		<name>Akahae Church 赤波江教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Aokata Church 青方教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Aosunakeura (Blue Sand of the Shore)Church 青砂ヶ浦教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Atoji (Next Track or Next Ruins) Church 跡次教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Chunoura Church 中ノ浦教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Ebukuro Church 江袋教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Funekaku (Hidden Ship)Church 船隠教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Hamakushi Church 浜串教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>焼崎教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Kashiragashima (Top Island)Church 頭ヶ島教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Koseryou Church 小瀬良教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Maruo (Circle Tail) Church 丸尾教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Matanoura Church 真手ノ浦教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Nakatomo Church 仲知教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Omizu Church 大水教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Oura Church 大浦教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Ouzo (Formerly Big) Church 大曽教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Reisui (Cool Water) Church 冷水教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Sanobara (Helping Field) Church 佐野原教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Sone Church 曽根教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Tainoura Church 鯛ノ浦教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Church 高井旅教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Church 福見教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Church 有福教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	<item>
+		<name>Church 大平教会
+		</name>
+		<imgSrc>Previews/c_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>No description available.  If you would like to provide information, please let us know via our contact page.
+		</desc>
+	</item>
+	
+	]]><!-- Hidden Item End -->
+</items>

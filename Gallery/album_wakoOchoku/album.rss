@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Visit of Wako Ochoku</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description>A view from which the area attacked by pirates can be seen</description>
+        <item>
+            <title>DSC00255</title>
+            <link>slides/DSC00255.JPG#</link>
+            <pubDate>Fri, 27 May 2011 21:07:07 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00255.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00255.JPG" width="640" height="480"/>
+            <jalbum:exif originalDate="4/17/11 4:32 PM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC00255.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00252</title>
+            <link>slides/DSC00252.JPG#</link>
+            <pubDate>Fri, 27 May 2011 21:07:07 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00252.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00252.JPG" width="613" height="459"/>
+            <jalbum:exif originalDate="4/17/11 4:31 PM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC00252.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00253</title>
+            <link>slides/DSC00253.JPG#</link>
+            <pubDate>Fri, 27 May 2011 21:07:07 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00253.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00253.JPG" width="640" height="480"/>
+            <jalbum:exif originalDate="4/17/11 4:31 PM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC00253.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Yamagami Shrine</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description>A small Shinto shrine overlooking a town</description>
+        <item>
+            <title>yamagamiShrine3</title>
+            <link>slides/yamagamiShrine3.jpg#</link>
+            <pubDate>Fri, 27 May 2011 20:39:10 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/yamagamiShrine3.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/yamagamiShrine3.jpg" width="874" height="600"/>
+            <guid isPermaLink="false">slides/yamagamiShrine3.jpg</guid>
+        </item>
+        <item>
+            <title>yamagamiShrine2</title>
+            <link>slides/yamagamiShrine2.jpg#</link>
+            <pubDate>Fri, 27 May 2011 20:39:10 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/yamagamiShrine2.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/yamagamiShrine2.jpg" width="833" height="600"/>
+            <guid isPermaLink="false">slides/yamagamiShrine2.jpg</guid>
+        </item>
+        <item>
+            <title>yamagamiShrine1</title>
+            <link>slides/yamagamiShrine1.jpg#</link>
+            <pubDate>Fri, 27 May 2011 20:39:10 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/yamagamiShrine1.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/yamagamiShrine1.jpg" width="875" height="600"/>
+            <guid isPermaLink="false">slides/yamagamiShrine1.jpg</guid>
+        </item>
+    </channel>
+</rss>

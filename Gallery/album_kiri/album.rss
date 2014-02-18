@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Kiri Church</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description>A modern church, Kiri church is high on a mountain and visible from afar.</description>
+        <item>
+            <title>kiri1</title>
+            <link>slides/kiri1.jpg#</link>
+            <pubDate>Fri, 27 May 2011 20:33:46 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/kiri1.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/kiri1.jpg" width="869" height="600"/>
+            <guid isPermaLink="false">slides/kiri1.jpg</guid>
+        </item>
+        <item>
+            <title>kiri2</title>
+            <link>slides/kiri2.jpg#</link>
+            <pubDate>Fri, 27 May 2011 20:33:46 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/kiri2.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/kiri2.jpg" width="864" height="600"/>
+            <guid isPermaLink="false">slides/kiri2.jpg</guid>
+        </item>
+        <item>
+            <title>kiri3</title>
+            <link>slides/kiri3.jpg#</link>
+            <pubDate>Fri, 27 May 2011 20:33:46 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/kiri3.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/kiri3.jpg" width="789" height="600"/>
+            <guid isPermaLink="false">slides/kiri3.jpg</guid>
+        </item>
+    </channel>
+</rss>

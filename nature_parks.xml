@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items sectionHead="Parks">
+	<item>
+		<name>Saikai National Park: Kurosaki Pass
+		</name>
+		<imgSrc>Previews/np_saikaiKurosaki.jpg
+		</imgSrc>
+		<albumSrc>Gallery/album_kurosakiPass/index.html
+		</albumSrc>
+		<desc>The Kurosaki Pass of Saikai National Park is located between Arikawa and Sakiura.  It is a picnic area with a great view overlooking the ocean and nearby towns.  There are two covered tables and a small lookout platform with binoculars.  On a clear day, one can see many islands and ships from this point.
+		</desc>
+	</item>
+	<item>
+		<name>Yagatame Park
+		</name>
+		<imgSrc>Previews/np_yagatame.JPG
+		</imgSrc>
+		<albumSrc>Gallery/album_yagatame/index.html
+		</albumSrc>
+		<desc>Yagatame park is a mountain park located on the north-west edge of the island, near the town of Nama.  From it, one can look far out into the ocean to the west and the town bay to the east.  The area once held a fort, from which archers could shoot down invading enemies such as pirates.  It is from this archered fort that the name "Yagatame" is derived.
+		<![CDATA[<br/><br/>]]>
+		A sign near the park has a poem about Yagatame that reads, "Yagatame looks beautiful, glowing in the setting sun with the golden waves.  For a short time, I fell into a drowse, where the past mingled with the future."
+		</desc>
+	</item>
+</items>

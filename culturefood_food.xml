@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items sectionHead="Regional Foods">
+	<item>
+		<name>Kamigoto Udon
+		</name>
+		<imgSrc>Previews/n_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>What makes Kamigoto udon so unique are the noodles which are much thinner than traditional udon noodles.  Kamigoto udon is on the menu of most Japanese restaurants on the island, some offering unique blends.  Kamigoto noodles are made in a building across from the Arikawa port terminal, near the 
+		<![CDATA[<a href="religsites.php#shrines">Whale Bone Shrine</a>]]>
+		 entrance.
+		</desc>
+	</item>
+	<item>
+		<name>Whale Meat
+		</name>
+		<imgSrc>Previews/n_default.jpg
+		</imgSrc>
+		<albumSrc>
+		</albumSrc>
+		<desc>While 
+		<![CDATA[<a href="http://en.wikipedia.org/wiki/Whaling_in_Japan" target="_blank">whale hunting</a>]]>
+		 is illegal internationally, some whales can be hunted for scientific research.  The meat from these whales is sold at shops and restaurants, even in school lunches.  Whale meat cannot be traded internationally, and Japan is one of three countries in the world that still whales, so if you happen to come across whale meat in Shinkamigoto, consider yourself lucky because it's also not served year-round.
+		 </desc>
+	</item>
+</items>

@@ -1,0 +1,15 @@
+Read the file README.txt first.
+
+
+Upload all file to the directory on your website where you want your contact form.
+
+Add any design changes to contact_us.htm
+
+Open cform_config.php and update any variables as desired (self explanatory)
+
+DID YOU KNOW WE OFFER AN INSTALLATION AND CUSTOMIZATION SERVICE?
+CONTACT US TODAY FOR FREE QUOTE. http://www.freecontactform.com/
+
+
+LOOK OUT FOR THE NEXT VERSION * THERE ARE LOTS OF NEW FEATURES PLANNED!!
+

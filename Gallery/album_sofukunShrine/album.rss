@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Sofukun Shrine</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description>A shrine located in Urakuwa, near Kamigoto Highschool.</description>
+        <item>
+            <title>100_4065</title>
+            <link>slides/100_4065.JPG#</link>
+            <pubDate>Sat, 07 May 2011 16:37:24 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/100_4065.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/100_4065.JPG" width="800" height="600"/>
+            <jalbum:exif originalDate="9/20/10 7:41 PM" cameraMake="EASTMAN KODAK COMPANY" cameraModel="KODAK V1253 ZOOM DIGITAL CAMERA"/>
+            <guid isPermaLink="false">slides/100_4065.JPG</guid>
+        </item>
+        <item>
+            <title>100_4066</title>
+            <link>slides/100_4066.JPG#</link>
+            <pubDate>Sat, 07 May 2011 16:37:24 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/100_4066.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/100_4066.JPG" width="395" height="600"/>
+            <jalbum:exif originalDate="9/20/10 7:42 PM" cameraMake="EASTMAN KODAK COMPANY" cameraModel="KODAK V1253 ZOOM DIGITAL CAMERA"/>
+            <guid isPermaLink="false">slides/100_4066.JPG</guid>
+        </item>
+        <item>
+            <title>100_4068</title>
+            <link>slides/100_4068.JPG#</link>
+            <pubDate>Sat, 07 May 2011 16:37:24 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/100_4068.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/100_4068.JPG" width="800" height="600"/>
+            <jalbum:exif originalDate="9/20/10 7:43 PM" cameraMake="EASTMAN KODAK COMPANY" cameraModel="KODAK V1253 ZOOM DIGITAL CAMERA"/>
+            <guid isPermaLink="false">slides/100_4068.JPG</guid>
+        </item>
+        <item>
+            <title>100_4070</title>
+            <link>slides/100_4070.JPG#</link>
+            <pubDate>Sat, 07 May 2011 16:37:24 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/100_4070.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/100_4070.JPG" width="800" height="600"/>
+            <jalbum:exif originalDate="9/20/10 7:44 PM" cameraMake="EASTMAN KODAK COMPANY" cameraModel="KODAK V1253 ZOOM DIGITAL CAMERA"/>
+            <guid isPermaLink="false">slides/100_4070.JPG</guid>
+        </item>
+        <item>
+            <title>100_4067</title>
+            <link>slides/100_4067.JPG#</link>
+            <pubDate>Sat, 07 May 2011 16:37:24 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/100_4067.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/100_4067.JPG" width="800" height="600"/>
+            <jalbum:exif originalDate="9/20/10 7:42 PM" cameraMake="EASTMAN KODAK COMPANY" cameraModel="KODAK V1253 ZOOM DIGITAL CAMERA"/>
+            <guid isPermaLink="false">slides/100_4067.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items sectionHead="Early Historic Sites">
+	<item>
+		<name>Ryoma Memorial
+		</name>
+		<imgSrc>Previews/eh_ryomaWildWave.jpg
+		</imgSrc>
+		<albumSrc>Gallery/album_ryomaWildWave/index.html
+		</albumSrc>
+		<desc>In the second halfth of the 19th century, the famed Sakamoto Ryoma helped to bring about the modernization of Japan.  Ryoma founded the Kameyama Company and with funds from Satsuma Clan, purchased a ship from Scottish merchants.  The ship was named, "Wild Wave," and on it's first voyage was caught in a storm and wrecked. Twelve of the sixteen crew members lost their lives including Captain Kuroki Kotaro.
+		<![CDATA[<br/><br/>]]>
+		Overlooking the ocean where the Wild Wave wrecked in 1866, stands a statue of Ryoma in memorial of the loss.  The sides of the statue's base are engraved with images of the wreck, depicting the sailors' plight.  Nearby there is a covered table with an engraved compass and map.
+		</desc>
+	</item>
+	<item>
+		<name>Yokoura Whaling Site
+		</name>
+		<imgSrc>Previews/eh_yokouraWhaling.jpg
+		</imgSrc>
+		<albumSrc>Gallery/album_yokouraWhaling/index.html
+		</albumSrc>
+		<desc>Located in Arikawa, the Yokoura Whaling Site is where the locals used to trap and slaughter whales.  It began during the Edo period, but is now ruins, unused since 1911.  If you visit this site, be on the lookout for 
+		<![CDATA[<a href="http://en.wikipedia.org/wiki/Japanese_Weasel" target='_blank'>itachi,</a>]]>
+		 Japanese weasels, which are harmless but fun to see.
+		</desc>
+	</item>
+	<item>
+		<name>Ruins of Feudal Lord's Office (Tsuduki Region)
+		</name>
+		<imgSrc>Previews/eh_lordRuins.jpg
+		</imgSrc>
+		<albumSrc>Gallery/album_lordRuins/index.html
+		</albumSrc>
+		<desc>This wood building is a remnant of Japan's feudal era, dating back as far as 14th century.  The Shinkamigoto area was under particular dispute between such feudal lords as Matsuura, Aokata, and Kamigoto, names of which have been passed on to towns and districts.  This office was used by subsequent lords and town leaders until it was abandoned some time in the last century.
+		</desc>
+	</item>
+	<item>
+		<name>Visit of Wako Ochoku
+		</name>
+		<imgSrc>Previews/eh_wakoOchoku.jpg
+		</imgSrc>
+		<albumSrc>Gallery/album_wakoOchoku/index.html
+		</albumSrc>
+		<desc>In the 16th century, Japanese pirates led by Wako Ochoku, raided numerous ships in the seas between Japan, China, and Korea.  The Matsuura clan, gave Wako Ochoku a home and base on Nakadori Island where the pirates lived their lives and kept their ships.  The pirates built a fortress and Kotenoura bay was their launch point, ideal for their pirating escapades.
+		</desc>
+	</item>
+</items>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items sectionHead="Events">
+	<item>
+		<name>Monster Man Marathon
+		</name>
+		<imgSrc>Previews/ev_monsterMan.jpg
+		</imgSrc>
+		<albumSrc>Gallery/album_monsterMan/index.html
+		</albumSrc>
+		<desc>The Monster Man Marathon is an annual triathlon held in June on Nakadori Island.  It draws in participants from all around the world, making it one of Shinkamigoto's largest events.  The course consists of a 2km swim, 42km bike ride, and a 12km run.  The course can be completed by a three-man relay team or as an individual.  Competitors start from Narao's Takaitabi Beach(高井旅), a popular location for surfers.  Following the race, there is an awards ceremony with a banquet style meal.
+		<![CDATA[<br/><br/>]]>
+	<![CDATA[	For more information, please visit the <a href='http://www3.ocn.ne.jp/~triath/index.htm' target='_blank'>Monster Man web page</a>. Participation forms can be downloaded in PDF and Word Doc format <a href='http://www3.ocn.ne.jp/~triath/sanka.htm' target='_blank'>here</a>.&nbsp; If you need English help applying or getting to the event, please <a href="contacts.php">let us know</a> and we'll try to assist you. ]]>
+		</desc>
+	</item>
+</items>

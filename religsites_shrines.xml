@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items sectionHead="Shinto Shrines">
+	<item>
+		<name>Kaidou (Whale Bone) Shrine 海童神社
+		</name>
+		<imgSrc>Previews/ss_whale.JPG
+		</imgSrc>
+		<albumSrc>Gallery/album_whaleBoneShrine/index.html
+		</albumSrc>
+		<desc>The Kaidou Shrine, also known as the "Whale Bone Shrine," is located in Arikawa, very close to the port.  The entrance is notable for the two whale bones that mirror the shrine's first tori gate.  The shrine is situated near the top of the small mountain and is surrounded by dense foliage.  Some festivals are held at this site.
+		</desc>
+	</item>
+	<item>
+		<name>Yamagami Shrine 山神神社
+		</name>
+		<imgSrc>Previews/ss_yamagami.jpg
+		</imgSrc>
+		<albumSrc>Gallery/album_yamagami/index.html
+		</albumSrc>
+		<desc>Yamagami Shrine is a small shrine located towards the southern end of Nakadori Island in Naraou.  It is atop a hill, overlooking the town.
+		</desc>
+	</item>
+	<item>
+		<name>Oota Public Shrine 志自岐黒神社
+		</name>
+		<imgSrc>Previews/ss_ootaPublic.jpg
+		</imgSrc>
+		<albumSrc>Gallery/album_ootaPublicShrine/index.html
+		</albumSrc>
+		<desc>It is a shrine located in the village of Oota.  It has impressive wood detail and stone deer statues.  Additionally, it has a nice view of the sea port.
+		</desc>
+	</item>
+	<item>
+		<name>Sofukun Shrine 祖父君神社
+		</name>
+		<imgSrc>Previews/ss_sofukun.JPG
+		</imgSrc>
+		<albumSrc>Gallery/album_sofukunShrine/index.html
+		</albumSrc>
+		<desc>A shrine located in Urakuwa, near Kamigoto Highschool.  In the fall, a ceremony is held here to promote a bountiful harvest and also for the coming of age of young boys and girls.
+		</desc>
+	</item>
+</items>

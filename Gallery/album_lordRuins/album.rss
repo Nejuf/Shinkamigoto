@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Feudal Lord Ruins</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description>The wooden ruins of a feudal lord's office</description>
+        <item>
+            <title>lordRuins1</title>
+            <link>slides/lordRuins1.jpg#</link>
+            <pubDate>Fri, 27 May 2011 20:00:37 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lordRuins1.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/lordRuins1.jpg" width="875" height="600"/>
+            <guid isPermaLink="false">slides/lordRuins1.jpg</guid>
+        </item>
+        <item>
+            <title>lordRuins2</title>
+            <link>slides/lordRuins2.jpg#</link>
+            <pubDate>Fri, 27 May 2011 20:00:37 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lordRuins2.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/lordRuins2.jpg" width="874" height="600"/>
+            <guid isPermaLink="false">slides/lordRuins2.jpg</guid>
+        </item>
+        <item>
+            <title>lordRuins3</title>
+            <link>slides/lordRuins3.jpg#</link>
+            <pubDate>Fri, 27 May 2011 20:00:37 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lordRuins3.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/lordRuins3.jpg" width="867" height="600"/>
+            <guid isPermaLink="false">slides/lordRuins3.jpg</guid>
+        </item>
+        <item>
+            <title>lordRuins4</title>
+            <link>slides/lordRuins4.jpg#</link>
+            <pubDate>Fri, 27 May 2011 20:00:37 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lordRuins4.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/lordRuins4.jpg" width="869" height="600"/>
+            <guid isPermaLink="false">slides/lordRuins4.jpg</guid>
+        </item>
+    </channel>
+</rss>

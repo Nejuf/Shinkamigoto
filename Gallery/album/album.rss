@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Yamatame Park</title>
+   	<link>.</link>
+        <generator>Jalbum 8.9</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>100_4012</title>
+            <link>slides/100_4012.JPG#</link>
+            <pubDate>Fri, 17 Sep 2010 15:52:54 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/100_4012.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/100_4012.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="9/14/10 2:02 AM" cameraMake="EASTMAN KODAK COMPANY" cameraModel="KODAK V1253 ZOOM DIGITAL CAMERA"/>
+            <guid isPermaLink="false">slides/100_4012.JPG</guid>
+        </item>
+        
+        <item>
+            <title>100_4015</title>
+            <link>slides/100_4015.JPG#</link>
+            <pubDate>Fri, 17 Sep 2010 15:52:54 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/100_4015.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/100_4015.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="9/14/10 2:03 AM" cameraMake="EASTMAN KODAK COMPANY" cameraModel="KODAK V1253 ZOOM DIGITAL CAMERA"/>
+            <guid isPermaLink="false">slides/100_4015.JPG</guid>
+        </item>
+        
+        <item>
+            <title>100_4022</title>
+            <link>slides/100_4022.JPG#</link>
+            <pubDate>Fri, 17 Sep 2010 15:52:54 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/100_4022.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/100_4022.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="9/14/10 2:04 AM" cameraMake="EASTMAN KODAK COMPANY" cameraModel="KODAK V1253 ZOOM DIGITAL CAMERA"/>
+            <guid isPermaLink="false">slides/100_4022.JPG</guid>
+        </item>
+        
+        <item>
+            <title>100_4021</title>
+            <link>slides/100_4021.JPG#</link>
+            <pubDate>Fri, 17 Sep 2010 15:52:54 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/100_4021.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/100_4021.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="9/14/10 2:04 AM" cameraMake="EASTMAN KODAK COMPANY" cameraModel="KODAK V1253 ZOOM DIGITAL CAMERA"/>
+            <guid isPermaLink="false">slides/100_4021.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Yokoura Whaling Site</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description>The area where townsfolk would capture and carve whales.</description>
+        <item>
+            <title>DSC00230</title>
+            <link>slides/DSC00230.JPG#</link>
+            <pubDate>Fri, 27 May 2011 21:25:19 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00230.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00230.JPG" width="640" height="480"/>
+            <jalbum:exif originalDate="4/17/11 1:22 PM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC00230.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00228</title>
+            <link>slides/DSC00228.JPG#</link>
+            <pubDate>Fri, 27 May 2011 21:25:19 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00228.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00228.JPG" width="640" height="480"/>
+            <jalbum:exif originalDate="4/17/11 1:21 PM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC00228.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00231</title>
+            <link>slides/DSC00231.JPG#</link>
+            <pubDate>Fri, 27 May 2011 21:25:19 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00231.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00231.JPG" width="640" height="480"/>
+            <jalbum:exif originalDate="4/17/11 1:24 PM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC00231.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00232</title>
+            <link>slides/DSC00232.JPG#</link>
+            <pubDate>Fri, 27 May 2011 21:25:19 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00232.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00232.JPG" width="640" height="480"/>
+            <jalbum:exif originalDate="4/17/11 1:24 PM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC00232.JPG</guid>
+        </item>
+    </channel>
+</rss>

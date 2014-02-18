@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Gokurakuji Temple</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description>A large Buddhist temple with numerous statues and a hillside cemetery</description>
+        <item>
+            <title>gokurakuji2</title>
+            <link>slides/gokurakuji2.jpg#</link>
+            <pubDate>Fri, 27 May 2011 20:10:33 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/gokurakuji2.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/gokurakuji2.jpg" width="875" height="600"/>
+            <guid isPermaLink="false">slides/gokurakuji2.jpg</guid>
+        </item>
+        <item>
+            <title>gokurakuji3</title>
+            <link>slides/gokurakuji3.jpg#</link>
+            <pubDate>Fri, 27 May 2011 20:10:33 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/gokurakuji3.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/gokurakuji3.jpg" width="870" height="600"/>
+            <guid isPermaLink="false">slides/gokurakuji3.jpg</guid>
+        </item>
+        <item>
+            <title>gokurakuji1</title>
+            <link>slides/gokurakuji1.jpg#</link>
+            <pubDate>Fri, 27 May 2011 20:10:33 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/gokurakuji1.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/gokurakuji1.jpg" width="871" height="600"/>
+            <guid isPermaLink="false">slides/gokurakuji1.jpg</guid>
+        </item>
+        <item>
+            <title>gokurakuji5</title>
+            <link>slides/gokurakuji5.jpg#</link>
+            <pubDate>Fri, 27 May 2011 20:10:33 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/gokurakuji5.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/gokurakuji5.jpg" width="872" height="600"/>
+            <guid isPermaLink="false">slides/gokurakuji5.jpg</guid>
+        </item>
+        <item>
+            <title>gokurakuji4</title>
+            <link>slides/gokurakuji4.jpg#</link>
+            <pubDate>Fri, 27 May 2011 20:10:33 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/gokurakuji4.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/gokurakuji4.jpg" width="873" height="600"/>
+            <guid isPermaLink="false">slides/gokurakuji4.jpg</guid>
+        </item>
+        <item>
+            <title>gokurakuji6</title>
+            <link>slides/gokurakuji6.jpg#</link>
+            <pubDate>Fri, 27 May 2011 20:10:33 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/gokurakuji6.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/gokurakuji6.jpg" width="872" height="600"/>
+            <guid isPermaLink="false">slides/gokurakuji6.jpg</guid>
+        </item>
+    </channel>
+</rss>

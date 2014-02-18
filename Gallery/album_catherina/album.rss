@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Catherina Boat Tour</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description>Take the Catherina boat tour to get a great view of The Great Wakamatsu Bridge, and coasts of Wakamatsu and Nakadori Islands.</description>
+        <item>
+            <title>catherina1</title>
+            <link>slides/catherina1.jpg#</link>
+            <pubDate>Fri, 27 May 2011 19:53:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/catherina1.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/catherina1.jpg" width="876" height="600"/>
+            <guid isPermaLink="false">slides/catherina1.jpg</guid>
+        </item>
+        <item>
+            <title>catherina2</title>
+            <link>slides/catherina2.jpg#</link>
+            <pubDate>Fri, 27 May 2011 19:53:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/catherina2.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/catherina2.jpg" width="884" height="600"/>
+            <guid isPermaLink="false">slides/catherina2.jpg</guid>
+        </item>
+        <item>
+            <title>catherina3</title>
+            <link>slides/catherina3.jpg#</link>
+            <pubDate>Fri, 27 May 2011 19:53:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/catherina3.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/catherina3.jpg" width="873" height="600"/>
+            <guid isPermaLink="false">slides/catherina3.jpg</guid>
+        </item>
+        <item>
+            <title>catherina5</title>
+            <link>slides/catherina5.jpg#</link>
+            <pubDate>Fri, 27 May 2011 19:53:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/catherina5.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/catherina5.jpg" width="900" height="567"/>
+            <guid isPermaLink="false">slides/catherina5.jpg</guid>
+        </item>
+        <item>
+            <title>catherina6</title>
+            <link>slides/catherina6.jpg#</link>
+            <pubDate>Fri, 27 May 2011 19:53:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/catherina6.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/catherina6.jpg" width="865" height="600"/>
+            <guid isPermaLink="false">slides/catherina6.jpg</guid>
+        </item>
+        <item>
+            <title>catherina7</title>
+            <link>slides/catherina7.jpg#</link>
+            <pubDate>Fri, 27 May 2011 19:53:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/catherina7.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/catherina7.jpg" width="823" height="600"/>
+            <guid isPermaLink="false">slides/catherina7.jpg</guid>
+        </item>
+        <item>
+            <title>catherina8</title>
+            <link>slides/catherina8.jpg#</link>
+            <pubDate>Fri, 27 May 2011 19:53:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/catherina8.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/catherina8.jpg" width="785" height="600"/>
+            <guid isPermaLink="false">slides/catherina8.jpg</guid>
+        </item>
+        <item>
+            <title>catherina9</title>
+            <link>slides/catherina9.jpg#</link>
+            <pubDate>Fri, 27 May 2011 19:53:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/catherina9.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/catherina9.jpg" width="870" height="600"/>
+            <guid isPermaLink="false">slides/catherina9.jpg</guid>
+        </item>
+        <item>
+            <title>catherina10</title>
+            <link>slides/catherina10.jpg#</link>
+            <pubDate>Fri, 27 May 2011 19:53:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/catherina10.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/catherina10.jpg" width="864" height="600"/>
+            <guid isPermaLink="false">slides/catherina10.jpg</guid>
+        </item>
+    </channel>
+</rss>

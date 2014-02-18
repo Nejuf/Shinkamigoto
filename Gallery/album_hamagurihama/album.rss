@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Hamagurihama Beach</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description>Located in Arikawa, Hamagurihama (Clam) Beach is treasured for it's long shallow beach line.  During a low tide, one can walk far out on it.</description>
+        <item>
+            <title>DSC00173</title>
+            <link>slides/DSC00173.JPG#</link>
+            <pubDate>Wed, 25 Jul 2012 18:08:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00173.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00173.JPG" width="640" height="480"/>
+            <jalbum:exif originalDate="4/10/11 3:22 PM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC00173.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00175</title>
+            <link>slides/DSC00175.JPG#</link>
+            <pubDate>Wed, 25 Jul 2012 18:08:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00175.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00175.JPG" width="640" height="480"/>
+            <jalbum:exif originalDate="4/10/11 3:23 PM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC00175.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00178</title>
+            <link>slides/DSC00178.JPG#</link>
+            <pubDate>Wed, 25 Jul 2012 18:08:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00178.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00178.JPG" width="640" height="480"/>
+            <jalbum:exif originalDate="4/10/11 3:24 PM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC00178.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02802</title>
+            <link>slides/DSC02802.JPG#</link>
+            <pubDate>Wed, 25 Jul 2012 18:08:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC02802.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC02802.JPG" width="800" height="600"/>
+            <jalbum:exif originalDate="6/2/12 6:24 PM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC02802.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02847</title>
+            <link>slides/DSC02847.JPG#</link>
+            <pubDate>Wed, 25 Jul 2012 18:08:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC02847.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC02847.JPG" width="800" height="600"/>
+            <jalbum:exif originalDate="7/15/12 10:56 AM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC02847.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02848</title>
+            <link>slides/DSC02848.JPG#</link>
+            <pubDate>Wed, 25 Jul 2012 18:08:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC02848.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC02848.JPG" width="800" height="600"/>
+            <jalbum:exif originalDate="7/15/12 10:56 AM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC02848.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02849</title>
+            <link>slides/DSC02849.JPG#</link>
+            <pubDate>Wed, 25 Jul 2012 18:08:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC02849.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC02849.JPG" width="800" height="600"/>
+            <jalbum:exif originalDate="7/15/12 10:57 AM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC02849.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02850</title>
+            <link>slides/DSC02850.JPG#</link>
+            <pubDate>Wed, 25 Jul 2012 18:08:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC02850.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC02850.JPG" width="800" height="600"/>
+            <jalbum:exif originalDate="7/15/12 10:57 AM" cameraMake="SONY" cameraModel="DSC-W350"/>
+            <guid isPermaLink="false">slides/DSC02850.JPG</guid>
+        </item>
+    </channel>
+</rss>
