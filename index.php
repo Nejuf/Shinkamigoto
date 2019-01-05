@@ -12,9 +12,9 @@
 <body id="home_page">
 	<div id="wrapper">
 	  <div id="header">
-    <h1><?php require($DOCUMENT_ROOT . "/topbanner.html"); ?></h1>  <!-- loads Shinkamigoto site banner -->
+    <h1><?php require(getenv("DOCUMENT_ROOT") . "/topbanner.html"); ?></h1>  <!-- loads Shinkamigoto site banner -->
 			<div id="nav">
-            	<?php require($DOCUMENT_ROOT . "/navbar.html"); ?> <!-- loads the navigation bar -->
+            	<?php require(getenv("DOCUMENT_ROOT") . "/navbar.html"); ?> <!-- loads the navigation bar -->
 			</div>
 		</div>
 		<div id="headline">
@@ -28,7 +28,7 @@
 				</div>
         	</div>-->
 			<div id="search-news">
-				<?php include($DOCUMENT_ROOT . "/sidebar_right.html"); ?> <!-- loads the right side of the page with google ads -->
+				<?php include(getenv("DOCUMENT_ROOT") . "/sidebar_right.html"); ?> <!-- loads the right side of the page with google ads -->
 			</div>
 		<!--	<div class="clear">
             </div>  -->
