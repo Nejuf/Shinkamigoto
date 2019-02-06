@@ -22,6 +22,8 @@ sudo yum install -y httpd || fail "Error installing Apache"
 
 sudo yum install -y mariadb-server || fail "Error installing MariaDB"
 
+sudo yum install -y php-xml || fail "Error installing PHP XML" # For PHP DOMDocument
+
 sudo systemctl start httpd || fail "Error starting Apache"
 
 sudo systemctl enable httpd || fail "Error setting Apache to run at boot"
