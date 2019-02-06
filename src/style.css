@@ -125,7 +125,7 @@ hr.m { /*Horizontal Rule*/
 	border: 3px inset #D0D0D0;
 	/*width: 636px;*/
 	width:auto;
-	height: 3px;
+	height: 0px;
 	margin: 6px 6px 3px 0;
 	text-align: left;
 }
