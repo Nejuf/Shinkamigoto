@@ -36,13 +36,7 @@
             
             <!-- Ferries -->
             <h4>
-                <script type="text/javascript">
-                    <!--
-                    var sitesDoc=loadXMLDoc("transportation_ferries.xml");
-                    var sitesHead=sitesDoc.getElementsByTagName("items")[0].getAttribute("sectionHead");
-                    document.write(sitesHead);
-                    //-->
-                </script>
+                <?php GetSectionHead("transportation_ferries.xml"); ?>
             </h4>
             <hr class="m" />
             
@@ -191,13 +185,7 @@
             
 <!-- Flights -->
        <h4>
-                <script type="text/javascript">
-                    <!--
-                    var sitesDoc=loadXMLDoc("transportation_flights.xml");
-                    var sitesHead=sitesDoc.getElementsByTagName("items")[0].getAttribute("sectionHead");
-                    document.write(sitesHead);
-                    //-->
-                </script>
+              <?php GetSectionHead("transportation_flights.xml"); ?>
             </h4>
             <hr class="m" />
             <p>There is a small airport on the eastern tip of Nakadori Island. At the time of writing, the price and availability of aerial transportation is unknown.
@@ -216,13 +204,7 @@
             
  <!-- Car -->
   <h4>
-                <script type="text/javascript">
-                    <!--
-                    var sitesDoc=loadXMLDoc("transportation_car.xml");
-                    var sitesHead=sitesDoc.getElementsByTagName("items")[0].getAttribute("sectionHead");
-                    document.write(sitesHead);
-                    //-->
-                </script>
+                <?php GetSectionHead("transportation_car.xml"); ?>
             </h4>
             <hr class="m" />
             
@@ -291,13 +273,7 @@
             
 <!-- Bus and Taxi -->
 <h4>
-                <script type="text/javascript">
-                    <!--
-                    var sitesDoc=loadXMLDoc("transportation_bustaxi.xml");
-                    var sitesHead=sitesDoc.getElementsByTagName("items")[0].getAttribute("sectionHead");
-                    document.write(sitesHead);
-                    //-->
-                </script>
+                <?php GetSectionHead("transportation_bustaxi.xml"); ?>
             </h4>
             <hr class="m" />
             
@@ -408,13 +384,7 @@
 
 <!-- Bicycle -->
 <h4>
-                <script type="text/javascript">
-                    <!--
-                    var sitesDoc=loadXMLDoc("transportation_bicycle.xml");
-                    var sitesHead=sitesDoc.getElementsByTagName("items")[0].getAttribute("sectionHead");
-                    document.write(sitesHead);
-                    //-->
-                </script>
+                <?php GetSectionHead("transportation_bicycle.xml"); ?>
             </h4>
             <hr class="m" />
             

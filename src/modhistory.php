@@ -50,13 +50,7 @@ Here is a break down of the name and its meaning: <br />
             
      <!-- Modern Historic Sites -->
            <h4>
-                <script type="text/javascript">
-                    <!--
-                    var sitesDoc=loadXMLDoc("modhistory_sites.xml");
-                    var sitesHead=sitesDoc.getElementsByTagName("items")[0].getAttribute("sectionHead");
-                    document.write(sitesHead);
-                    //-->
-                </script>
+              <?php GetSectionHead("modhistory_sites.xml"); ?>
             </h4>
             <hr class="m" />
            <?php ParseItems("modhistory_sites.xml"); ?>

@@ -31,13 +31,7 @@
         
        <!-- Cultural Sites --> 
             <h4 id="culture">
-                <script type="text/javascript">
-                    <!--
-                    var cultureDoc=loadXMLDoc("culturefood_culture.xml");
-                    var cultureHead=cultureDoc.getElementsByTagName("items")[0].getAttribute("sectionHead");
-                    document.write(cultureHead);
-                    //-->
-                </script>
+              <?php GetSectionHead("culturefood_culture.xml"); ?>
             </h4>
             <hr class="m" />
             <?php ParseItems("culturefood_culture.xml"); ?>
@@ -46,13 +40,7 @@
         
     <!-- Foods -->    
          <h4 id="foods">
-                <script type="text/javascript">
-                    <!--
-                    var cultureDoc=loadXMLDoc("culturefood_food.xml");
-                    var cultureHead=cultureDoc.getElementsByTagName("items")[0].getAttribute("sectionHead");
-                    document.write(cultureHead);
-                    //-->
-                </script>
+              <?php GetSectionHead("culturefood_food.xml"); ?>
             </h4>
             <hr class="m" />
             <?php ParseItems("culturefood_food.xml"); ?>

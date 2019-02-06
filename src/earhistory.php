@@ -35,13 +35,7 @@
             
             <!-- Early Historic Sites -->
            <h4>
-                <script type="text/javascript">
-                    <!--
-                    var sitesDoc=loadXMLDoc("earhistory_sites.xml");
-                    var sitesHead=sitesDoc.getElementsByTagName("items")[0].getAttribute("sectionHead");
-                    document.write(sitesHead);
-                    //-->
-                </script>
+              <?php GetSectionHead("earhistory_sites.xml"); ?>
             </h4>
             <hr class="m" />
             

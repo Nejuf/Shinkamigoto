@@ -31,13 +31,7 @@
         
   <!-- Events -->
   <h4 id="events">
-                <script type="text/javascript">
-                    <!--
-                    var eventsDoc=loadXMLDoc("eventsfestiv_events.xml");
-                    var eventsHead=eventsDoc.getElementsByTagName("items")[0].getAttribute("sectionHead");
-                    document.write(eventsHead);
-                    //-->
-                </script>
+              <?php GetSectionHead("eventsfestiv_events.xml"); ?>
             </h4>
             <hr class="m" />
             
@@ -47,13 +41,7 @@
   
   <!-- Festivals -->      
       <h4 id="festivals">
-                <script type="text/javascript">
-                    <!--
-                    var festivDoc=loadXMLDoc("eventsfestiv_festiv.xml");
-                    var festivHead=festivDoc.getElementsByTagName("items")[0].getAttribute("sectionHead");
-                    document.write(festivHead);
-                    //-->
-                </script>
+              <?php GetSectionHead("eventsfestiv_festiv.xml"); ?>
             </h4>
             <hr class="m" />
             

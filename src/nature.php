@@ -31,13 +31,7 @@
         
 <!--Beaches -->        
         <h4 id="beaches">
-                <script type="text/javascript">
-                    <!--
-                    var beachesDoc=loadXMLDoc("nature_beaches.xml");
-                    var beachesHead=beachesDoc.getElementsByTagName("items")[0].getAttribute("sectionHead");
-                    document.write(beachesHead);
-                    //-->
-                </script>
+               <?php GetSectionHead("nature_beaches.xml"); ?>
             </h4>
             <hr class="m" />
 			<?php ParseItems("nature_beaches.xml"); ?>
@@ -45,13 +39,7 @@
 
 <!--Parks -->   
 <h4 id="parks">
-                <script type="text/javascript">
-                    <!--
-                    var parksDoc=loadXMLDoc("nature_parks.xml");
-                    var parksHead=parksDoc.getElementsByTagName("items")[0].getAttribute("sectionHead");
-                    document.write(parksHead);
-                    //-->
-                </script>
+               <?php GetSectionHead("nature_parks.xml"); ?>
             </h4>
             <hr class="m" />
             <?php ParseItems("nature_parks.xml"); ?>
@@ -60,13 +48,7 @@
 
 <!--Miscellaneous -->           
         <h4 id="misc">
-                <script type="text/javascript">
-                    <!--
-                    var miscDoc=loadXMLDoc("nature_misc.xml");
-                    var miscHead=miscDoc.getElementsByTagName("items")[0].getAttribute("sectionHead");
-                    document.write(miscHead);
-                    //-->
-                </script>
+               <?php GetSectionHead("nature_misc.xml"); ?>
             </h4>
             <hr class="m" />
             <?php ParseItems("nature_misc.xml"); ?>
