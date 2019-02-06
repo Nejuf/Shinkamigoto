@@ -34,14 +34,7 @@
 
 <!--Churches -->  
 <h4 id="christian">
-	<script type="text/javascript">
-    <!--
-    var xmlDoc=loadXMLDoc("religsites_churches.xml");
-    
-    var x=xmlDoc.getElementsByTagName("items")[0].getAttribute("sectionHead");
-    document.write(x);
-    //-->
-    </script>
+  <?php GetSectionHead("religsites_churches.xml"); ?>
 </h4>
 <hr class="m" />
 <?php ParseItems("religsites_churches.xml"); ?>
@@ -49,13 +42,7 @@
 
 <!--Shrines -->  
 <h4 id="shinto">
-	<script type="text/javascript">
-		<!--
-		var shrineDoc=loadXMLDoc("religsites_shrines.xml");
-		var shrinesHead=shrineDoc.getElementsByTagName("items")[0].getAttribute("sectionHead");
-		document.write(shrinesHead);
-		//-->
-    </script>
+  <?php GetSectionHead("religsites_shrines.xml"); ?>
 </h4>
 <hr class="m" />
 <?php ParseItems("religsites_shrines.xml"); ?>
@@ -63,13 +50,7 @@
 
 <!--Temples -->  
 <h4 id="buddhist">
-	<script type="text/javascript">
-		<!--
-		var templeDoc=loadXMLDoc("religsites_temples.xml");
-		var templesHead=templeDoc.getElementsByTagName("items")[0].getAttribute("sectionHead");
-		document.write(templesHead);
-		//-->
-    </script>
+  <?php GetSectionHead("religsites_temples.xml"); ?>
 </h4>
 <hr class="m" />
 <?php ParseItems("religsites_temples.xml"); ?>

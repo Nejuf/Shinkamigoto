@@ -64,6 +64,16 @@ function ParseItems($xmlFileName)
 	Echo   "</div><br />";
  }
 }
+
+function GetSectionHead($xmlFileName)
+{
+  $xmlDoc = new DOMDocument();
+  $xmlDoc->load($xmlFileName);
+  $x = $xmlDoc->documentElement;
+  $sectionHead = $xmlDoc->getElementsByTagName('items')->item(0)->getAttribute("sectionHead");
+  print $sectionHead;
+}
+
 ?>
 </body>
 </html>
